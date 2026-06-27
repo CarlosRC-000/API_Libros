@@ -10,56 +10,6 @@
     }
   ],
 
-  [
-    {
-      "id": 2,
-      "titulo": "aprende css",
-      "autor": "maría rodríguez",
-      "disponible": "false",
-      "fecharegistro": "14:25:05 20240725"
-    }
-  ],
-
-  [
-    {
-      "id": 3,
-      "titulo": "aprende js",
-      "autor": "josé gúzman",
-      "disponible": "true",
-      "fecharegistro": "16:35:16 20220319"
-    }
-  ],
-
-  [
-    {
-      "id": 4,
-      "titulo": "aprende react",
-      "autor": "carlos castro",
-      "disponible": "false",
-      "fecharegistro": "18:45:26 20200124"
-    }
-  ],
-
-  [
-    {
-      "id": 5,
-      "titulo": "aprende iu/ux",
-      "autor": "valeria salas",
-      "disponible": "true",
-      "fecharegistro": "20:14:47 20180914"
-    }
-  ],
-
-  [
-    {
-      "id": 6,
-      "titulo": "aprende bootstrap",
-      "autor": "samantha goméz",
-      "disponible": "false",
-      "fecharegistro": "22:10:00 20160405"
-    }
-  ],
-
   "profile": {
     "name": "typicode"
   }
