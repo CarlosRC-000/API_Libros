@@ -1,5 +1,6 @@
 {
-  "posts": [
+  "posts": 
+  [
     {
       "id": 1,
       "titulo": "aprende html",
@@ -54,6 +55,6 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "api_libros"
   }
 }
