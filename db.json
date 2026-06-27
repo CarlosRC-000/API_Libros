@@ -1,1 +1,14 @@
-
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Aprende HTML",
+      "Autor": "Angie Mora",
+      "Disponible": "True",
+      "FechaRegistro": "12:15:20 20260515"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
