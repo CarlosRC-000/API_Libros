@@ -6,7 +6,7 @@
       "titulo": "aprende html",
       "autor": "angie mora",
       "disponible": "true",
-      "fecharegistro": "12:15:20 2026-05-15"
+      "fecharegistro": "12:15:20 20260515"
     }
   ],
 
@@ -16,7 +16,7 @@
       "titulo": "aprende css",
       "autor": "maría rodríguez",
       "disponible": "false",
-      "fecharegistro": "14:25:05 2024-07-25"
+      "fecharegistro": "14:25:05 20240725"
     }
   ],
 
@@ -26,7 +26,7 @@
       "titulo": "aprende js",
       "autor": "josé gúzman",
       "disponible": "true",
-      "fecharegistro": "16:35:16 2022-03-19"
+      "fecharegistro": "16:35:16 20220319"
     }
   ],
 
@@ -36,7 +36,7 @@
       "titulo": "aprende react",
       "autor": "carlos castro",
       "disponible": "false",
-      "fecharegistro": "18:45:26 2020-01-24"
+      "fecharegistro": "18:45:26 20200124"
     }
   ],
 
@@ -46,7 +46,7 @@
       "titulo": "aprende iu/ux",
       "autor": "valeria salas",
       "disponible": "true",
-      "fecharegistro": "20:14:47 2018-09-14"
+      "fecharegistro": "20:14:47 20180914"
     }
   ],
 
@@ -56,7 +56,7 @@
       "titulo": "aprende bootstrap",
       "autor": "samantha goméz",
       "disponible": "false",
-      "fecharegistro": "22:10:00 2016-04-05"
+      "fecharegistro": "22:10:00 20160405"
     }
   ],
 
