@@ -2,44 +2,44 @@
   "posts": [
     {
       "id": 1,
-      "titulo": "Aprende HTML",
-      "autor": "Angie Mora",
-      "disponible": "True",
+      "titulo": "aprende html",
+      "autor": "angie mora",
+      "disponible": "true",
       "fecharegistro": "12:15:20 2026-05-15"
     }
     {
       "id": 2,
-      "titulo": "Aprende CSS",
-      "autor": "María Rodríguez",
-      "disponible": "False",
+      "titulo": "aprende css",
+      "autor": "maría rodríguez",
+      "disponible": "false",
       "fecharegistro": "14:25:05 2024-07-25"
     }
     {
       "id": 3,
-      "titulo": "Aprende JS",
-      "autor": "José Gúzman",
-      "disponible": "True",
+      "titulo": "aprende js",
+      "autor": "josé gúzman",
+      "disponible": "true",
       "fecharegistro": "16:35:16 2022-03-19"
     }
     {
       "id": 4,
-      "titulo": "Aprende REACT",
-      "autor": "Carlos Castro",
-      "disponible": "False",
+      "titulo": "aprende react",
+      "autor": "carlos castro",
+      "disponible": "false",
       "fecharegistro": "18:45:26 2020-01-24"
     }
     {
       "id": 5,
-      "titulo": "Aprende IU/UX",
-      "autor": "Valeria Salas",
-      "disponible": "True",
+      "titulo": "aprende iu/ux",
+      "autor": "valeria salas",
+      "disponible": "true",
       "fecharegistro": "20:14:47 2018-09-14"
     }
     {
       "id": 6,
-      "titulo": "Aprende Bootstrap",
-      "autor": "Samantha Goméz",
-      "disponible": "False",
+      "titulo": "aprende bootstrap",
+      "autor": "samantha goméz",
+      "disponible": "false",
       "fecharegistro": "22:10:00 2016-04-05"
     }
   ],
